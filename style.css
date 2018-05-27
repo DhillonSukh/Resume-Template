@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 3rem;
+    background-color: #E0DEE0;
+}
+
+.row{
+    border: 2px solid #00585E;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}
+
+.left-side{
+    background-color: #E0DEE0;
+    padding: 0;
+}
+
+.icon{
+    font-size: 2rem;
+    margin: 1.5rem;
+    color: #00585E;
+}
+
+.degree{
+    font-size: 1.5rem;
+    margin: 1.5rem;
+    color: #000000;
+}
+
+.right-side{
+    background-color: #E0DEE0;
+    padding: 2rem;
+}
+
+.icon-skills{
+    margin-right: 2rem;
+    color: #00585E;
+}
+
+.skills-title{
+    color: #00585E;
+}
+
+.right-side__skill, .right-side__experience{
+    margin-left: 4rem;
+    padding: 2rem;
+}
+
+.right-side__skill p{
+    border-bottom: 2px solid #7D7C7D;
+}
+
+
+
+
+
